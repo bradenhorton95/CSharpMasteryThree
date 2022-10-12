@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace ACS_BHortonM3
 {
-    public partial class frmMain : Form
+    public partial class frmSuppliers : Form
     {
-        public frmMain()
+        public frmSuppliers()
         {
             InitializeComponent();
-        }
-
-        private void frmMain_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
