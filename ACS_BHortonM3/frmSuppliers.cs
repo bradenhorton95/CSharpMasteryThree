@@ -16,5 +16,10 @@ namespace ACS_BHortonM3
         {
             InitializeComponent();
         }
+
+        private void frmSuppliers_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
